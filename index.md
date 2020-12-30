@@ -10,5 +10,4 @@ This website will serve as the main course page for AHMP's 2021 Remote qGIS work
 <br> 
 
 
-[Link to course readings](Readings.md)
 
