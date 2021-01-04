@@ -1,6 +1,6 @@
 # AHMP Publications
 
-[Hammer, Emily, Rebecca Seifried, Kathryn Franklin, and Anthony Lauricella. "Remote assessments of the archaeological heritage situation in Afghanistan." Journal of Cultural Heritage 33 (2018): 125-144.]((https://camel-lab-oi.github.io/AHMPWorkshop2020//img/Afghanistan_CH_2018.pdf){:target="_blank"}
+[Hammer, Emily, Rebecca Seifried, Kathryn Franklin, and Anthony Lauricella. "Remote assessments of the archaeological heritage situation in Afghanistan." Journal of Cultural Heritage 33 (2018): 125-144.](https://camel-lab-oi.github.io/AHMPWorkshop2020//img/Afghanistan_CH_2018.pdf){:target="_blank"}
 
 [Franklin, Kathryn, and Emily Hammer. "Untangling palimpsest landscapes in conflict zones: A “remote survey” in Spin Boldak, Southeast Afghanistan." Journal of Field Archaeology 43, no. 1 (2018): 58-73.](https://camel-lab-oi.github.io/AHMPWorkshop2020//img/Spin_Boldak.pdf){:target="_blank"}
 
